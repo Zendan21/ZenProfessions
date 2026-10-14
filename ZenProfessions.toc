@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: |cffe5b957ZenProfessions|r
+## Notes: Embedded ZenStylingPack 1.1.0 visuals and optional EbonAPI version notifications.
+## Author: Zendan
+## Version: 1.13.0
+## OptionalDeps: EbonAPI
+## SavedVariables: ZenProfessionsDB, EbonholdProfessionsDB
+
+UI\Init.lua
+UI\Themes.lua
+UI\Media.lua
+UI\Effects.lua
+UI\Widgets\Panels.lua
+UI\Widgets\Buttons.lua
+UI\Widgets\Controls.lua
+UI\Widgets\StatusBar.lua
+UI\AppearancePanel.lua
+ZenProfessions.lua
